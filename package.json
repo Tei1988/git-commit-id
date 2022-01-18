@@ -6,6 +6,7 @@
   "repository": "sheerun/git-commit-id",
   "license": "MIT",
   "main": "src/index.js",
+  "types": "src/index.d.ts",
   "files": [
     "src"
   ],
